@@ -1,0 +1,29 @@
+.head{
+   background-color: #007bff;
+   margin: auto;
+   height: 60px;
+   line-height: 56px;
+   margin-bottom: 20%;
+}
+.logoAd{
+   margin-left: 1%;
+}
+.admin{
+   color: white;
+   font-size: 22px;
+   text-align: center;
+}
+.head span{
+   margin: auto;
+}
+.leftBar {
+   box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+   min-height: 100vh;
+}
+.effect {
+   position: relative;
+   text-decoration: none;
+   height: 80px;
+   line-height: 80px;
+   color: white;
+}
